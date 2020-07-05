@@ -68,7 +68,7 @@ To download Node & NPM please [click here](https://nodejs.org/en/download/)
 
 Start with cloning the repo 
 ```bash
-git clone https://github.ibm.com/Mridul-Bhandari/Tovit
+git clone https://github.com/mridulrb/Tovit.git
 ```
 
 Go into the project directory once cloned
