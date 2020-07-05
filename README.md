@@ -179,11 +179,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-Mohammad Fawaz Siddiqi - @fawazsiddiqi
-Sidra Ahmed - @caffeinated-hooman
-Faiz Hassan - @FaizHasan123
-Mridul Bhandari - @mridulrb
-Gizem Selen Tumkaya
+* Mohammad Fawaz Siddiqi - @fawazsiddiqi
+* Sidra Ahmed - @caffeinated-hooman
+* Faiz Hassan - @FaizHasan123
+* Mridul Bhandari - @mridulrb
+* Gizem Selen Tumkaya
 
 ## Future Improvements
 - Link to test centers for slot booking and automating the delivery of test results.
